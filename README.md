@@ -2,7 +2,7 @@
 
 > Let's name your silly startup
 
-Generates cliché (but nice-sounding) names for your startup. [Try it on Codepen](http://codepen.io/ericbai/full/wJyaJb/).
+Generates cliché (but nice-sounding) names for your startup. .
 
 ```js
 const name = require('@ericbai/startup-name-generator')
