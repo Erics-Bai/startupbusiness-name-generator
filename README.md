@@ -12,7 +12,6 @@ name('cloud')
 //   'Cloudloop', 'Activecloud', 'Cloudspark', 'Cloudable', 'Clouder', ...]
 ```
 
-[![Status](https://travis-ci.org/ericbai/startup-name-generator.svg?branch=master)](https://travis-ci.org/ericbai/startup-name-generator "See test builds")
 
 ## Install
 
@@ -37,8 +36,4 @@ startup-name-generator --help
 ```
 
 ## Thanks
-
-**startup-name-generator** © 2017, Rico Sta. Cruz. Released under the [MIT] License.<br>
-Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
-
 > [Eric Bai](http://erics-bai.github.io) &nbsp;&middot;&nbsp;
